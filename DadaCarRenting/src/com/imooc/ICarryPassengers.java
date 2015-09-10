@@ -1,5 +1,5 @@
 package com.imooc;
 
 public interface ICarryPassengers {
-	public int numPassengers();
+  public int numPassengers();
 }
